@@ -18,7 +18,7 @@ using namespace std;
   	bool g=false;
   	int i;
   	for(i=0;i<f.size();i++){
-  		if(f[i]=='!'){
+  		if(f[i]=='!!!'){
   			g=true;
 		  }
 	  }
